@@ -1,7 +1,7 @@
 html{
   margin: 0;
   padding: 0;
-  background-color: blue;
+  background: linear-gradient(to right, #283647, #023579);
 }
 .fundo {
   height: 100%;
